@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMirzaeiOne&show_icons=true&theme=radical)
 
-[![Amin Mirzaei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aminmirzaeione&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=radical&show_icons=true)](https://github.com/aminmirzaeione)
+[![Amin Mirzaei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aminmirzaeione&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=radical&show_icons=true)](https://github.com/lizardofficial)
 
 <!--
 **AminMirzaeiOne/AminMirzaeiOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
